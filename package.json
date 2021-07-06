@@ -1,11 +1,19 @@
 {
   "name": "bab_iv_ceci",
   "version": "1.0.0",
-  "description": "",
+  "description": "DIKLAT JUNIOR WEB PROGRAMER HARI KE-7\r SELASA 6 JULI 2021",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CECIFENESA/BAB_IV_CECI.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CECIFENESA/BAB_IV_CECI/issues"
+  },
+  "homepage": "https://github.com/CECIFENESA/BAB_IV_CECI#readme"
 }
